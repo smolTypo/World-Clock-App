@@ -1,6 +1,8 @@
 # World Clock App 🌍
 
 This is a simple application that allows you to check the current time and date across various cities around the globe. 
+
+
 <img src="https://github.com/smolTypo/WorldClock/blob/main/WorldClock.png" width="500"/>
 
 ## Features
